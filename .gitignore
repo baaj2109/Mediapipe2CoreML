@@ -133,3 +133,5 @@ dmypy.json
 .tflite
 .mlmodel
 .onnx
+
+.DS_Store
