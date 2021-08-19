@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# model type
+.h5
+.tflite
+.mlmodel
+.onnx
